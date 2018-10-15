@@ -14,10 +14,6 @@ nav ul {
   font-family: sans-serif;
 }
 
-nav a {
-
-}
-
 .index.html {
   background-color: #719e07;
 }
@@ -38,21 +34,21 @@ nav a {
   background-color: #eee8d5;
 }
 
-  .wrapper > .dfn {
-    background-color: #b58900;
-  }
+.wrapper > .dfn {
+  background-color: #b58900;
+}
 
-  .wrapper > .dfn> strong:last-child {
-    color: #fff;
-  }
+.wrapper > .dfn > strong:last-child {
+  color: #fff;
+}
 
-  .warpper > ul a:first-child {
-    background-color: #719e07;
-  }
+.warpper > ul a:first-child {
+  background-color: #719e07;
+}
 
-  .wrapper > .external {
-    background-color: #2694d8;
-  }
+.wrapper > .external {
+  background-color: #2694d8;
+}
 
 ol li:first-child {
   color: #719e47;
